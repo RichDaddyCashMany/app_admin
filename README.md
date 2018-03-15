@@ -1,5 +1,5 @@
 >* 前后端分离的管理后台
->* 本项目使用的是phthon接口
+>* 本项目使用的是phthon接口，在[app_admin_api](https://github.com/HJaycee/app_admin_api)
 >* 图片验证码需要redis服务配合
 >* 图床使用腾讯云COS
 >* 使用vue+element-ui构建UI
