@@ -28,18 +28,18 @@ npm run build
 
 
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132118%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132118%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132140%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132140%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132200%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132200%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132212%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132212%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132223%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132223%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132235%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132235%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132247%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132247%402x.png"></img>
 
-<img width="600px" src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132257%402x.png"></img>
+<img src="http://test-1252137158.file.myqcloud.com/github_pic/WX20180315-132257%402x.png"></img>
